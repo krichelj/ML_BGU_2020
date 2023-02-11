@@ -1,4 +1,4 @@
-# Machine Learning and Big Data BGU 2020
+# ML_BGU_2020
 Machine Learning and Analysis of Big Data course, Computer Science M.Sc., Ben Gurion University of the Negev, 2020
 
 ### HW1 [[report]](HW1/answers.pdf), [[code]](https://github.com/krichelj/ML_BGU_2020/tree/main/HW1)
